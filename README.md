@@ -1,3 +1,7 @@
+# Escola Futebol AD São Caetano - Unidade Vila Formosa
+
+O projeto tem como objetivo o desenvolvimento de landing page para divulgação e contato com a escola de futebol.
+
 # EscolaFutebolSCS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
