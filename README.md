@@ -1,5 +1,7 @@
 # Escola Futebol AD São Caetano - Unidade Vila Formosa
 
+## Projeto em desenvolvimento
+
 O projeto tem como objetivo o desenvolvimento de landing page para divulgação e contato com a escola de futebol.
 
 # EscolaFutebolSCS
