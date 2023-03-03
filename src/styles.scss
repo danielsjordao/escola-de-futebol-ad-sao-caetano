@@ -16,7 +16,7 @@
 }
 
 :root{
-    --primary: #1976D2;
+    --primary: hsl(238, 55%, 21%);;
     --body: #fff;
     --text-menu: #fff;
     --text-body: #4b4b4b;
@@ -24,7 +24,7 @@
 
 :root .dark-theme{
     --primary: #0D47A1;
-    --body: #4b4b4b;
+    --body: hsl(238, 55%, 21%);;
     --text-menu: #fff;
     --text-body: #fff;
 }
@@ -56,7 +56,7 @@ body{
          font-size: 20px;
      }
      
-     h1, p{
+     h1, h2, h3, p{
          color: var(--text-body);
      }
 }

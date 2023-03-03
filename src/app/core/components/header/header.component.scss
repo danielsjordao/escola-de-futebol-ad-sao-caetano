@@ -21,6 +21,10 @@
 
                 &, a{
                     color: var(--text-menu);
+                    text-decoration: none;
+                    :hover{
+                        color: yellow;
+                    }
                 }
                 &:last-child{
                     padding: 0;
