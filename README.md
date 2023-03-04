@@ -3,6 +3,7 @@
 ## Projeto em desenvolvimento
 
 O projeto tem como objetivo o desenvolvimento de landing page para divulgação e contato com a escola de futebol.
+Com o intuito de otimizar a responsividade da página utilizaremos routerLink do Angular que proporciona uma resoosta muito mais rápida comparada ao href.
 
 # EscolaFutebolSCS
 
