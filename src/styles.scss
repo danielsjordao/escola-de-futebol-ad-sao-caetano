@@ -16,17 +16,17 @@
 }
 
 :root{
-    --primary: hsl(238, 55%, 21%);;
-    --body: #fff;
-    --text-menu: #fff;
+    --primary: #0D47A1;
+    --body: #FFFFFF;
+    --text-menu: #FFFFFF;
     --text-body: #4b4b4b;
 }
 
 :root .dark-theme{
-    --primary: #0D47A1;
-    --body: hsl(238, 55%, 21%);;
-    --text-menu: #fff;
-    --text-body: #fff;
+    --primary:hsl(238, 55%, 21%);
+    --body: hsl(238, 55%, 21%);
+    --text-menu: #FFFFFF;
+    --text-body:#FFFFFF;
 }
 
 body{
@@ -35,29 +35,41 @@ body{
 
 .logo{
     width: 200px;
+    justify-content: center;
+    align-items: center;
 }
 
 .mascote{
-    width: 200px;    
+    width: 200px;
+    justify-content: center;    
 }
 
+
+
 .container{
-    width: 510px;
+    width: 700px;
     margin: 0 auto;
 
     h1{
         font-weight: 700;
+        font-size: 80px;
+        margin: 50px 0 10px;        
+     }
+
+     h2{
+        font-weight: 700;
         font-size: 30px;
-        margin: 50px 0 10px;
      }
      
      p{
-         font-weight: 400;
-         font-size: 20px;
+         font-weight: 700;
+         font-size: 25px;
+
      }
      
      h1, h2, h3, p{
          color: var(--text-body);
+         text-align: center;
      }
 }
 
