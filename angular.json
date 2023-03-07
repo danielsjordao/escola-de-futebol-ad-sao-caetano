@@ -29,12 +29,10 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "./node_modules/leaflet/dist/leaflet.css",
+            "styles": [              
               "src/styles.scss"
             ],
-            "scripts": [
-              "./node_modules/leaflet/dist/leaflet.js"
+            "scripts": [              
             ]
           },
           "configurations": {

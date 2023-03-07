@@ -20,18 +20,26 @@
 .img_facebook{
     width: 30px;
     position: relative;
-    align-items: center; 
-    
+       
 }
 
 .img_instagram{
     width: 35px;
     position: relative;
-    align-items: center;
+    
 }
 
 .img_facebook, .img_instagram{
-    align-items: center;
-    justify-content: space-evenly;
+    display: flex;
+    
+
+
 }
 
+.mascote2{
+    width: 300px;
+    position: fixed;    
+    bottom: 40px;
+    left: 40px;   
+    z-index: 1000;
+}

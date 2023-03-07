@@ -1,12 +1,14 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
+
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './core/components/header/header.component';
 import { HomeComponent } from './core/pages/components/home/home.component';
 import { SobreComponent } from './core/pages/components/sobre/sobre.component';
 import { ContatoComponent } from './core/pages/components/contato/contato.component';
+
 
 @NgModule({
   declarations: [
@@ -18,9 +20,10 @@ import { ContatoComponent } from './core/pages/components/contato/contato.compon
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+
   ],
   providers: [],
-  bootstrap: [AppComponent]
+    bootstrap: [AppComponent]
 })
 export class AppModule { }
