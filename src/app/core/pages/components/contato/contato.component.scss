@@ -19,19 +19,20 @@
 
 .img_facebook{
     width: 30px;
-    position: relative;
-       
+          
 }
 
 .img_instagram{
-    width: 35px;
-    position: relative;
-    
+    width: 36px;
+        
 }
 
 .img_facebook, .img_instagram{
-    display: flex;
-    
+
+    display:inline-flexbox;
+    justify-content: center;
+    margin: 5px 20px ;
+    position: relative;
 
 
 }
@@ -43,3 +44,10 @@
     left: 40px;   
     z-index: 1000;
 }
+
+.google-maps{
+    align-items: center;
+    justify-content: center;
+    margin: 20px 50px;
+}
+
