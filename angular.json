@@ -98,6 +98,12 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options":{
+            "baseHref":"/escola-de-futebol-ad-sao-caetano/"
+          }
         }
       }
     }
