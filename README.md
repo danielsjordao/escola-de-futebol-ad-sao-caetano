@@ -1,6 +1,6 @@
 # Escola Futebol AD São Caetano - Unidade Vila Formosa
 
-## Projeto em desenvolvimento
+## Projeto Atletas do Futuro
 
 O projeto tem como objetivo o desenvolvimento de landing page para divulgação e contato com a escola de futebol.
 Com o intuito de otimizar a responsividade da página utilizaremos routerLink do Angular que proporciona uma resposta muito mais rápida e eficiente comparada ao href.
