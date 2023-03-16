@@ -16,7 +16,7 @@
 }
 
 :root{
-    --primary: #0D47A1;
+    --primary: hsl(238, 55%, 21%);
     --body: #FFFFFF;
     --text-menu: #FFFFFF;
     --text-body: #4b4b4b;
@@ -34,15 +34,15 @@ body{
 }
 
 .logo{
-    width: 200px;
+    width: 150px;
     justify-content:center;
     align-items: center;
 }
 
-.mascote{
-    width: 200px;
-    justify-content: center;    
-}
+// .mascote{
+//     width: 200px;
+//     justify-content: center;    
+// }
 
 .container{
     width: 900px;
@@ -71,3 +71,9 @@ body{
      }
 }
 
+/*parte mobile*/
+@media(max-width: 768px) {
+    .logo{
+        flex-direction: column;
+    }
+}
