@@ -2,9 +2,9 @@
 
 ## Projeto Atletas do Futuro
 
-O projeto tem como objetivo o desenvolvimento de landing page para divulgação e contato com a escola de futebol.
+O projeto tem como objetivo o desenvolvimento de landing page para divulgação e contato com a escola de futebol. Apesar do Angular não ter como foco o desenvolvimento de diversas páginas, para este projeto utilizamos um recurso poderoso que faz muita diferença em ganho de eficiência, RouterLink, ele permite que consigamos navegar em uma nova URL e o componente ser renderizado no lugar da saída do roteador sem recarregar a página (ganho de eficiência e economia de dados).
+
 Com o intuito de otimizar a responsividade da página utilizaremos routerLink do Angular que proporciona uma resposta muito mais rápida e eficiente comparada ao href.
-- próximos passos
 
 # EscolaFutebolSCS
 
