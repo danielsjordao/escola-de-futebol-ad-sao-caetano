@@ -16,10 +16,10 @@
 }
 
 :root{
-    --primary: hsl(238, 55%, 21%);
+    --primary: hsl(238, 56%, 42%);
     --body: #FFFFFF;
     --text-menu: #FFFFFF;
-    --text-body: #4b4b4b;
+    --text-body: #FFFFFF;
 }
 
 :root .dark-theme{
@@ -30,7 +30,12 @@
 }
 
 body{
-    background-color: var(--body);
+    // background-color: var(--body);
+    background-image: url("./assets/campo-da-grama2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+     
 }
 
 .logo{
@@ -49,25 +54,29 @@ body{
     margin: 0 auto;    
 
     h1{
-        font-weight: 700;
-        font-size: 78px;
-        margin: 50px 0 10px;        
+        font-weight:700;
+        font-size: 50px;
+        margin: 20px 0 10px;        
      }
 
      h2, h3{
         font-weight: 700;
-        font-size: 40px;
+        font-size: 60px;
      }
      
      p{
          font-weight: 400;
-         font-size: 20px;
-
+         font-size: 25px;
      }
      
-     h1, h2, h3, p{
+     h1, h2, h3{
          color: var(--text-body);
          text-align: center;
+     }
+
+     p{
+        color: var(--text-body);
+        text-align: justify;
      }
 }
 
