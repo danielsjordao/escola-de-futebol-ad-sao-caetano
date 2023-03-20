@@ -1,3 +1,5 @@
+# Working in Progress 
+
 # Escola Futebol AD São Caetano - Unidade Vila Formosa
 
 ## Projeto Atletas do Futuro
@@ -6,7 +8,7 @@ O projeto tem como objetivo o desenvolvimento de landing page para divulgação 
 
 Com o intuito de otimizar a responsividade da página utilizaremos routerLink do Angular que proporciona uma resposta muito mais rápida e eficiente comparada ao href.
 
-# EscolaFutebolSCS
+# Escola de futebol A.D. São Caetano 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
