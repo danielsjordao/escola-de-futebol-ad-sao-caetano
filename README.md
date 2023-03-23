@@ -1,4 +1,6 @@
-# Working in Progress 
+# Working in Progress
+
+Projeto passando por adequações necessárias
 
 # Escola Futebol AD São Caetano - Unidade Vila Formosa
 
