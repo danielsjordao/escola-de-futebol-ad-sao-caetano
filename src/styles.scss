@@ -26,7 +26,7 @@
     --primary:hsl(238, 55%, 21%);
     --body: hsl(238, 55%, 21%);
     --text-menu: #FDFDFD;
-    --text-body:#FDFDFD;
+    --text-body: #000000;
 }
 
 body{
@@ -79,4 +79,23 @@ body{
         text-align: justify;
      }
 }
+
+/* Mobile styles */
+@media (max-width: 767px) {
+    /* Styles for devices with a maximum width of 767px */
+    
+  }
+  
+  /* Tablet styles */
+  @media (min-width: 768px) and (max-width: 1023px) {
+    /* Styles for devices with a minimum width of 768px and a maximum width of 1023px */
+  }
+  
+  /* Desktop styles */
+  @media (min-width: 1024px) {
+    /* Styles for devices with a minimum width of 1024px */
+  }
+  
+
+
 

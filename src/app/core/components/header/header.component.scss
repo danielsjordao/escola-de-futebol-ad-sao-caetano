@@ -36,7 +36,22 @@
                 }
             }
         }
-    }
-    
+    }    
 }
+
+
+    /* Mobile styles */
+    @media (max-width: 767px) {
+
+      }
+      
+      /* Tablet styles */
+      @media (min-width: 768px) and (max-width: 1023px) {
+        /* Styles for devices with a minimum width of 768px and a maximum width of 1023px */
+      }
+      
+      /* Desktop styles */
+      @media (min-width: 1024px) {
+        /* Styles for devices with a minimum width of 1024px */
+      }
 

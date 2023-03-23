@@ -10,36 +10,36 @@
     text-align: center;
     font-size: 30px;
     box-shadow: 1px 1px 2px #888;
-    z-index: 1000;
+    z-index: auto;
 }
 
 .fa-whatsapp {
     margin-top: 16px;
 }
 
-.img_facebook{
-    width: 30px;          
-}
+// .img_facebook{
+//     width: 30px;          
+// }
 
-.img_instagram{
-    width: 36px;        
-}
+// .img_instagram{
+//     width: 36px;        
+// }
 
-.img_facebook, .img_instagram{
+// .img_facebook, .img_instagram{
 
-    display:inline-flexbox;
-    justify-content: center;
-    margin: 5px 20px ;
-    position: relative;
-}
+//     display:inline-flexbox;
+//     justify-content: center;
+//     margin: 5px 20px ;
+//     position: relative;
+// }
 
-.mascote2{
-    width: 300px;
-    position: fixed;    
-    bottom: 40px;
-    left: 40px;   
-    z-index: 1000;
-}
+// .mascote2{
+//     width: 300px;
+//     position: fixed;    
+//     bottom: 40px;
+//     left: 40px;   
+//     z-index: 1000;
+// }
 
 .google-maps{
     align-items: center;
@@ -52,6 +52,21 @@
     font-weight: bold;
 }
 
+/* Mobile styles */
+@media screen and (max-width: 767px) {
+    /* Styles for devices with a maximum width of 767px */
+
+  }
+  
+  /* Tablet styles */
+  @media (min-width: 768px) and (max-width: 1023px) {
+    /* Styles for devices with a minimum width of 768px and a maximum width of 1023px */
+  }
+  
+  /* Desktop styles */
+  @media (min-width: 1024px) {
+    /* Styles for devices with a minimum width of 1024px */
+  }
 
 
 
