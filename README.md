@@ -1,6 +1,6 @@
 # Working in Progress
 
-Projeto passando por adequações necessárias
+Projeto passando por adequações necessárias scss, typescript e html.
 
 # Escola Futebol AD São Caetano - Unidade Vila Formosa
 
