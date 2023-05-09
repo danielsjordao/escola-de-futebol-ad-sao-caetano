@@ -1,4 +1,4 @@
-# Working in Progress AD SC
+# Working in Progress Escola AD SC Vila Formosa 
 
 Projeto passando por adequações necessárias scss, typescript e html.
 
